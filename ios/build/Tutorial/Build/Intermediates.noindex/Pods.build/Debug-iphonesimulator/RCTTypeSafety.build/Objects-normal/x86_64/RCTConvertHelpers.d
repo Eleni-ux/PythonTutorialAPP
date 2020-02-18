@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Folly/folly/Optional.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Folly/folly/Portability.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Folly/folly/CPortability.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Folly/folly/Traits.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Folly/folly/Utility.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/eleniwelderufail/Desktop/Tutorial/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
