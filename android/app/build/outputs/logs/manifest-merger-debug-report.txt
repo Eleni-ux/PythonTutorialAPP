@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-vector-icons] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/991428c2bcd9db2e8215bdb178c1e9c5/AndroidManifest.xml:2:1-13:12
-MERGED from [org.webkit:android-jsc:r245459] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/c4c297b65bc867ca3f839fa5b327677c/AndroidManifest.xml:2:1-11:12
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/7390412badfa29850dde2e3832256c4c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/12e53897a3ab63480ab321f84bc4e69a/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/f379473f23f02ad9e5bacb9fa97eadcb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/aeeb491bc730d83919609418640ba201/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/508764a74e03d5350d6e226d99417923/AndroidManifest.xml:2:1-9:12
@@ -43,39 +43,39 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eleniwelderufai
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/85acee1c170add9cf1dc360da947acb7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/5076d3bb0d40ec46e7e621961c269300/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/3e9048884054b71d3f5d3895daa3f551/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/4dd44be769d4e327c500339e0f607941/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/309e39e3831c67443d2c492a888aba13/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/991428c2bcd9db2e8215bdb178c1e9c5/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/991428c2bcd9db2e8215bdb178c1e9c5/AndroidManifest.xml:11:5-20
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/7390412badfa29850dde2e3832256c4c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/7390412badfa29850dde2e3832256c4c/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/9af9ff72e49f354f4dab49780f1a1feb/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/9af9ff72e49f354f4dab49780f1a1feb/AndroidManifest.xml:11:5-20
 MERGED from [androidx.core:core:1.0.1] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/0853f996456f9003b3d1bad3a3cdc2bc/AndroidManifest.xml:22:5-89
@@ -85,65 +85,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/elen
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/0853f996456f9003b3d1bad3a3cdc2bc/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:8:7-39
 	tools:ignore
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:10:7-52
 	tools:targetApi
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:7:7-38
 activity#com.tutorial.MainActivity
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-vector-icons] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/991428c2bcd9db2e8215bdb178c1e9c5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/991428c2bcd9db2e8215bdb178c1e9c5/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/c4c297b65bc867ca3f839fa5b327677c/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/c4c297b65bc867ca3f839fa5b327677c/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/7390412badfa29850dde2e3832256c4c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/7390412badfa29850dde2e3832256c4c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/12e53897a3ab63480ab321f84bc4e69a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/12e53897a3ab63480ab321f84bc4e69a/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/f379473f23f02ad9e5bacb9fa97eadcb/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/f379473f23f02ad9e5bacb9fa97eadcb/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/aeeb491bc730d83919609418640ba201/AndroidManifest.xml:5:5-7:41
@@ -212,33 +212,33 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eleniwelderufail/.gra
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/5076d3bb0d40ec46e7e621961c269300/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/3e9048884054b71d3f5d3895daa3f551/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/3e9048884054b71d3f5d3895daa3f551/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/4dd44be769d4e327c500339e0f607941/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/4dd44be769d4e327c500339e0f607941/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/309e39e3831c67443d2c492a888aba13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/309e39e3831c67443d2c492a888aba13/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/eleniwelderufail/Desktop/Tutorial/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/src/debug/AndroidManifest.xml:5:22-75
 provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
-ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
-		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
 	android:exported
-		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
 	android:resource
-		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
 	android:name
-		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/Tutorial/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+		ADDED from [:react-native-webview] /Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67

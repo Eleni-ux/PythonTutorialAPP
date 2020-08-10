@@ -1,4 +1,4 @@
-#Tue Dec 03 17:59:09 EST 2019
-base.0=/Users/eleniwelderufail/Desktop/Tutorial/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
+#Mon Aug 10 10:56:37 EDT 2020
+base.0=/Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
+path.0=classes.dex

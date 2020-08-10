@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/eleniwelderufail/Desktop/Tutorial/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "outputFile": "/Users/eleniwelderufail/Desktop/A/PythonTutorialAPP/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/Users/eleniwelderufail/.gradle/caches/transforms-2/files-2.1/f379473f23f02ad9e5bacb9fa97eadcb/res/values-lv/values-lv.xml",
